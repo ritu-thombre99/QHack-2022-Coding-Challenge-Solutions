@@ -4,7 +4,7 @@ The [QHack Coding Challenge](https://challenge.qhack.ai) is a set of 25 quantum 
 
 
 
-## Setting Up Your Environment<a name="setup" />
+## Setting Up Environment<a name="setup" />
 
 
 ```console
